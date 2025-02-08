@@ -1,0 +1,33 @@
+*{
+    margin: 0px ;
+    padding: 0px ;
+    
+    
+}
+body{
+    background-image: url(login.jpg.avif);
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+ 
+     
+ }
+
+.container{
+    
+    max-width:80%; 
+    padding: 34px ; 
+    margin: auto ;
+    background: none;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 80px;
+    
+}
+
+.logo{
+    
+}
